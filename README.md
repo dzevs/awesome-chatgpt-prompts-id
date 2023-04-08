@@ -4,7 +4,7 @@
 
 Selamat datang di repositori "Awesome ChatGPT Prompts Indonesia"! Ini adalah kumpulan contoh prompt yang dapat digunakan dengan model ChatGPT.
 
-Model ChatGPT adalah model bahasa besar yang dilatih oleh OpenAI yang mampu menghasilkan teks yang menyerupai manusia. Dengan memberikan prompt kepadanya, ia dapat menghasilkan tanggapan yang melanjutkan percakapan atau memperluas prompt yang diberikan.
+Model [ChatGPT](https://chat.openai.com/chat) adalah model bahasa besar yang dilatih oleh [OpenAI](https://openai.com) yang mampu menghasilkan teks yang menyerupai manusia. Dengan memberikan prompt kepadanya, ia dapat menghasilkan tanggapan yang melanjutkan percakapan atau memperluas prompt yang diberikan.
 
 Di repository ini, Anda akan menemukan berbagai macam prompt yang dapat digunakan dengan ChatGPT. Kami mendorong Anda untuk menambahkan prompt Anda sendiri ke daftar, dan untuk menggunakan ChatGPT untuk menghasilkan prompt baru juga.
 
